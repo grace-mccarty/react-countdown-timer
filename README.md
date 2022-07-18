@@ -1,3 +1,5 @@
+Simple Countdown app made with React and styled with SCSS.
+-------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
